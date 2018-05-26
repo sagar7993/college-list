@@ -1,0 +1,22 @@
+#nav-list{
+	width: 40px;
+	height: 100%;
+	background: 
+}
+#sidebar{
+	list-style-type: none;
+}
+#sidebar li{
+	display: block;
+	width: 40px;
+	margin-top: 10px;
+	font-family: 'Titillium Web', sans-serif;
+	line-height:28px;
+	font-weight:300;
+	font-size:16px;
+	text-decoration: none;
+}
+#sidebar li a:hover{
+	background-color:#DE5E60;
+}
+
